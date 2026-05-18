@@ -1,9 +1,7 @@
-# Code Repository for Submission: Measuring Frequency Non-Stationarity for Robust Time Series Forecasting
-
+# Code Repository for Submission: Revisiting Distribution Shifts in Time Series: A Frequency-Aware Kernel Perspective on Non-Stationarity
 ## Introduction
 
-This repository contains the anonymous submission code for: Measuring Frequency Non-Stationarity for Robust Time Series Forecasting. 
-To maintain anonymity, the code does not include any identity information.
+This repository contains the anonymous submission code for: Revisiting Distribution Shifts in Time Series: A Frequency-Aware Kernel Perspective on Non-Stationarity.
 
 ## Getting Started
 
