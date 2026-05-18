@@ -1,7 +1,7 @@
 # Code Repository for Submission: Revisiting Distribution Shifts in Time Series: A Frequency-Aware Kernel Perspective on Non-Stationarity
 ## Introduction
 
-This repository contains the anonymous submission code for: Revisiting Distribution Shifts in Time Series: A Frequency-Aware Kernel Perspective on Non-Stationarity.
+This repository contains the submission code for: Revisiting Distribution Shifts in Time Series: A Frequency-Aware Kernel Perspective on Non-Stationarity.
 
 ## Getting Started
 
